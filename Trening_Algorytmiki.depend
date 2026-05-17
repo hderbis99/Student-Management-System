@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1779028912 source:c:\users\hderb\documents\codeblocks_projekty\trening_algorytmiki\main.cpp
+	<iostream>
+	<vector>
+
